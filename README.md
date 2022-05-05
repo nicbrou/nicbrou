@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on another version of my Name That Tune (90s music) Browser Game with Express. 
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on projects with other software developers!
 - 🤔 I’m looking for help with finding full-time employment in software development.
 - 💬 Ask me about my projects from my Software Engineering Immersive Program with General Assembly. 
-- 📫 nbrought28@gmail.com
+- 📫 Contact me at: nbrought28@gmail.com
 - 😄 She/Her
 - ⚡ Fun fact: I am a musician, singer-songwriter and worked as a music therapist in my previous career!
 
