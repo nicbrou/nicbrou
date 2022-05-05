@@ -1,4 +1,4 @@
-### Hi there 👋  My name is Nicole Broughton. 
+### Hi there! My name is Nicole Broughton 👋 
 
 I am a creative and curious software developer dedicated to continuous improvement!
 
