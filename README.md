@@ -1,4 +1,6 @@
-### Hi there 👋  My name is Nicole Broughton. I am a creative and curious software developer dedicated to continuous improvement!
+### Hi there 👋  My name is Nicole Broughton. 
+
+I am a creative and curious software developer dedicated to continuous improvement!
 
 - 🔭 I’m currently working on another version of my Name That Tune (90s music) Browser Game with Express. 
 - 🌱 I’m currently learning React.
