@@ -2,7 +2,7 @@
 
 I am a creative and curious software developer dedicated to continuous improvement!
 
-- 🔭 I’m currently working on building my project portfolio with React and Tailwind CSS!
+- 🔭 I’m currently helping a non-profit organization build their website using WordPress and custom CSS!
 - 🌱 I’m currently further developing my skills in React and JavaScript.
 - 👯 I’m looking to collaborate on music-based projects!
 - 🤔 I’m looking for help with finding full-time employment in software development.
